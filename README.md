@@ -3,11 +3,11 @@ This my NPX card unique style to connect with me directly via console or termina
 
 👇 just hit 
 ```bash
-npx anmol
+npx coreybaines
 ```
 And get to know me in unique style.
 
-### I spent a non-trivial amount of effort building and designing this iteration of npx card, and I am proud of it! All I ask of you all is to put a **star** ⭐ on this project and not claim this effort as your own ♥.
+### All respect and credits go to <a href="https://github.com/anmol098/">नमस्ते (Namaste), Anmol Pratap Singh</a> for creating this amazing script.
 
 ### SCREENSHOT
 
