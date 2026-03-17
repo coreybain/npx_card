@@ -1,6 +1,6 @@
 # npx coreybaines
 
-Terminal business card for Corey Baines.
+Interactive terminal portfolio for Corey Baines.
 
 Run:
 
@@ -8,13 +8,16 @@ Run:
 npx coreybaines
 ```
 
-The card includes quick actions for:
+The refreshed experience is built around two modes:
 
-- Email
-- Website
-- Selected work
-- Ask Corey
+- `Guided`: an outcomes-first command palette for recruiters and hiring managers
+- `Sandbox`: a technical shell for developers who want to explore projects, writing, links, and Ask Corey
+
+Highlights:
+
+- Live sync from `coreybaines.com` with a bundled offline fallback
+- Featured work, leadership context, and contact paths inside the terminal
+- Preview-first outbound actions instead of instantly opening tabs
+- CLI-friendly Ask Corey endpoint backed by the website knowledge base
 
 This repo powers the `npx coreybaines` call-to-action referenced on [coreybaines.com](https://coreybaines.com/).
-
-Credits to <a href="https://github.com/anmol098/">Anmol Pratap Singh</a> for the original business-card concept and script inspiration.

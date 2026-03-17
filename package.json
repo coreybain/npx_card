@@ -11,7 +11,8 @@
     "url": "git+https://github.com/coreybain/npx_card.git"
   },
   "scripts": {
-    "test": "node card.js",
+    "start": "node card.js",
+    "test": "node --test",
     "pub": "npm version major && npm publish"
   },
   "dependencies": {
