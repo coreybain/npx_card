@@ -1,23 +1,20 @@
-# NPX CARD
-This my NPX card unique style to connect with me directly via console or terminal
+# npx coreybaines
 
-👇 just hit 
+Terminal business card for Corey Baines.
+
+Run:
+
 ```bash
 npx coreybaines
 ```
-And get to know me in unique style.
 
-### All respect and credits go to <a href="https://github.com/anmol098/">नमस्ते (Namaste), Anmol Pratap Singh</a> for creating this amazing script.
+The card includes quick actions for:
 
-### SCREENSHOT
+- Email
+- Website
+- Selected work
+- Ask Corey
 
-The final output might look something like this:
+This repo powers the `npx coreybaines` call-to-action referenced on [coreybaines.com](https://coreybaines.com/).
 
-![image](https://github.com/anmol098/npx_card/blob/master/demo.gif)
-
-
-<hr/>
-
-##### STEPS TO CREATE YOUR OWN
-The article written by our friend @jackboberg. I used the same for the reference to deploy the package. 
-[Write a Simple npx Business Card](https://studioelsa.se/blog/open-source-oss-npx-business-card). 
+Credits to <a href="https://github.com/anmol098/">Anmol Pratap Singh</a> for the original business-card concept and script inspiration.
